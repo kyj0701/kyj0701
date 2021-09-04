@@ -1,5 +1,5 @@
 # Welcome 😉
-I am currently a student in Hanyang University, majoring Computer Science.
+I am a student in Hanyang University, majoring Computer Science.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyj0701)](https://github.com/anuraghazra/github-readme-stats)
 
